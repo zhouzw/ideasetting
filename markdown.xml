@@ -1,0 +1,6 @@
+<application>
+  <component name="MarkdownApplicationSettings">
+    <MarkdownCssSettings />
+    <MarkdownPreviewSettings UseGrayscaleRendering="false" AutoScrollPreview="false" VerticalSplit="false" />
+  </component>
+</application>

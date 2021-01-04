@@ -1,0 +1,20 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Instruction" />
+      <item value="The most important difference between this Executor and other normal Executor is that this one doesn't manage * any thread." />
+      <item value="route" />
+      <item value="Application" />
+      <item value="Rest Application" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="4" />
+        <entry key="ENGLISH" value="5" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>
