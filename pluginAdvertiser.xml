@@ -2714,7 +2714,7 @@
                   </entry>
                   <entry key="PyBehaveRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="行为" pluginName="Pythonid" pluginId="Pythonid" />
+                      <FeaturePluginData displayName="Behave" pluginName="Pythonid" pluginId="Pythonid" />
                     </value>
                   </entry>
                   <entry key="PyRemoteDebugConfigurationType">
@@ -2805,6 +2805,11 @@
                   <entry key="TSqltConfigurationType">
                     <value>
                       <FeaturePluginData displayName="tSQLt 测试" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
+                    </value>
+                  </entry>
+                  <entry key="TailRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Tail" pluginName="Grep Console" pluginId="GrepConsole" />
                     </value>
                   </entry>
                   <entry key="TestNG">
@@ -3009,17 +3014,17 @@
                   </entry>
                   <entry key="exploded-ear">
                     <value>
-                      <FeaturePluginData displayName="JavaEE 应用程序: 分离型" pluginName="Java EE Platform" pluginId="com.intellij.javaee" />
+                      <FeaturePluginData displayName="JavaEE 应用程序: 展开型" pluginName="Java EE Platform" pluginId="com.intellij.javaee" />
                     </value>
                   </entry>
                   <entry key="exploded-ejb">
                     <value>
-                      <FeaturePluginData displayName="EJB 应用程序: 分离型" pluginName="Java EE Platform" pluginId="com.intellij.javaee" />
+                      <FeaturePluginData displayName="EJB 应用程序: 展开型" pluginName="Java EE Platform" pluginId="com.intellij.javaee" />
                     </value>
                   </entry>
                   <entry key="exploded-war">
                     <value>
-                      <FeaturePluginData displayName="Web 应用程序: 分离型" pluginName="Java EE Platform" pluginId="com.intellij.javaee" />
+                      <FeaturePluginData displayName="Web 应用程序: 展开型" pluginName="Java EE Platform" pluginId="com.intellij.javaee" />
                     </value>
                   </entry>
                   <entry key="jar">
