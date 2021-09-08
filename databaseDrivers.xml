@@ -112,6 +112,9 @@
       <library>
         <url>file://D:/develop/oceanbase-client-1.1.10.jar</url>
       </library>
+      <library>
+        <url>file://D:/develop/guava-18.0.jar</url>
+      </library>
     </driver>
   </component>
 </application>
