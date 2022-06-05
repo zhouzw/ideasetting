@@ -89,6 +89,7 @@
                   <option value="com.intellij.modules.ultimate" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -100,7 +101,6 @@
                   <option value="com.intellij.modules.java" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -113,7 +113,6 @@
                   <option value="com.intellij.modules.java" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -126,7 +125,6 @@
                   <option value="com.intellij.modules.java" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -139,7 +137,6 @@
                   <option value="com.intellij.modules.java" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -267,6 +264,18 @@
                 </set>
               </option>
               <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="io.github.kings1990.FastRequest">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.java" />
+                  <option value="org.intellij.plugins.markdown" />
+                </set>
+              </option>
             </PluginData>
           </value>
         </entry>
